@@ -6,7 +6,7 @@
 For testing Code : 
 ```sh
 git clone https://github.com/Sivakumar-hash/Nodejs.git # or clone your own fork
-cd node-js-sample
+cd Nodejs
 npm install
 npm start
 ```
