@@ -5,7 +5,7 @@
 
 For testing Code : 
 ```sh
-git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
+git clone https://github.com:/Nodejs.git # or clone your own fork
 cd node-js-sample
 npm install
 npm start
